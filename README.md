@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Singh Thakur</h1>
 <h3 align="center">A passionate Full Stack Developer & Java DSA learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=404xsumit&label=Profile%20views&color=0e75b6&style=flat" alt="404xsumit" /> </p>
+
 
 - 🔭 I’m currently working on **Java + DSA and Python Projects**
 
